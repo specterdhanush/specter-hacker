@@ -3,10 +3,18 @@ Let do it for fun,not revenge 🤩😋😋
 
 Free to use ,easy to use 
 
+
+Installing processor
+git clone https://github.com/specterdhanush/specter-hacker
+cd specter-hacker
+python nopebom.py
+Or
+python proemailbomb.py
+
+
+
 There are two versions
-
-
-Usage 
+Nope method
 python nopebom.py
 
 These is easy to use 
