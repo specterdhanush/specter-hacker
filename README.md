@@ -1,4 +1,4 @@
-# email-bomb
+Up# email-bomb
 Let do it for fun,not revenge 🤩😋😋
 
 Free to use ,easy to use 
@@ -11,11 +11,11 @@ git clone https://github.com/specterdhanush/specter-hacker
 
 cd specter-hacker
 
-python nopebom.py
+python3 beginebom.py
 
 Or
 
-python proemailbomb.py
+python3 proemailbomb.py
 😋😋
 
 
