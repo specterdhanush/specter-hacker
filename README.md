@@ -3,10 +3,19 @@ Let do it for fun,not revenge 🤩😋😋
 
 Free to use ,easy to use 
 
+There are two versions
 
 
 Usage 
-emailbomb.py
+python nopebom.py
+
+These is easy to use 
+
+And
+
+The is pro version has more features:
+
+python proemailbomb.py
 
 
 Important
