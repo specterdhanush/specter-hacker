@@ -16,16 +16,6 @@ python3 proemailbomb.py
 😋😋
 
 
-
-These is easy to use 
-
-And
-
-This is pro version has more features:
-
-python proemailbomb.py
-
-
 Important
 
 
