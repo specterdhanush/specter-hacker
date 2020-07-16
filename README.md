@@ -11,23 +11,17 @@ git clone https://github.com/specterdhanush/specter-hacker
 
 cd specter-hacker
 
-python3 beginebom.py
-
-Or
 
 python3 proemailbomb.py
 😋😋
 
 
-There are two versions
-Nope method
-python nopebom.py
 
 These is easy to use 
 
 And
 
-The is pro version has more features:
+This is pro version has more features:
 
 python proemailbomb.py
 
